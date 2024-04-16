@@ -5,9 +5,6 @@
 
 <div align="center">
 
-[![Gradle](https://github.com/codecraft007/YouTube-Premium-/workflows/gradle.yml/badge.svg)](https://github.com/codecraft007/YouTube-Premium-/workflows/gradle.yml)
-<img alt="jsDelivr monthly hits badge" src="https://data.jsdelivr.com/v1/package/gh/prateek-chaubey/YTPro/badge">
-
 [![https://telegram.me/l7z_q](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/l7z_q)
 [![https://telegram.me/l7z_q](https://img.shields.io/badge/Telegram-@l7z_q-blue.svg?style=flat-square)](https://telegram.me/l7z_q)
 
@@ -40,4 +37,4 @@
 
 | | |
 |:--:|:--:| 
-|<img src='https://raw.githubusercontent.com/prateek-chaubey/YTPro/main/ytpro3.png'  > | <img src='https://raw.githubusercontent.com/codecraft007/YouTube-Premium-/main/ytpro2.png'  > |
+|<img src='https://raw.githubusercontent.com/codecraft007/YouTube-Premium-/main/ytpro3.png'  > | <img src='https://raw.githubusercontent.com/codecraft007/YouTube-Premium-/main/ytpro2.png'  > |
