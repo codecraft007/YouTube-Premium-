@@ -23,7 +23,7 @@
 
 ## Download YT PRO
 
-[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-ff0000?style=for-the-badge&logo=download&logoColor=white "Download Apk")](https://github.com/codecraft007/YouTube-Premium-/releases/download/v2.3/YTPRO.apk)
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-ff0000?style=for-the-badge&logo=download&logoColor=white "Download Apk")](https://github.com/codecraft007/YouTube-Premium-/raw/main/YouTube%20Pro_3.3.apk)
 
 ## Features
  * Video Downloader
