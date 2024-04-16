@@ -1,5 +1,5 @@
 <p align="center">
-<img src='https://raw.githubusercontent.com/codecraft007/codecraft007/main/.github/img/ytp.gif'  >
+<img src='https://raw.githubusercontent.com/codecraft007/codecraft007/main/ytp.gif'  >
 </p>
 <h1 align=center>YouTube PRO </h1>
 
@@ -18,12 +18,12 @@
 
 | | |
 |:--:|:--:| 
-|<img src='https://raw.githubusercontent.com/codecraft007/YouTube-Premium-/main/.github/img/ytpro3.png'  > | <img src='https://raw.githubusercontent.com/codecraft007/YouTube-Premium-/main/.github/img/ytpro2.png'  > |
+|<img src='https://raw.githubusercontent.com/codecraft007/YouTube-Premium-/main/ytpro3.png'  > | <img src='https://raw.githubusercontent.com/codecraft007/YouTube-Premium-/main/ytpro2.png'  > |
 
 
 ## Download YT PRO
 
-[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-ff0000?style=for-the-badge&logo=download&logoColor=white "Download Apk")](https://github.com/codecraft007/YTPro/releases/download/v2.3/YTPRO.apk)
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-ff0000?style=for-the-badge&logo=download&logoColor=white "Download Apk")](https://github.com/codecraft007/YouTube-Premium-/releases/download/v2.3/YTPRO.apk)
 
 ## Features
  * Video Downloader
@@ -40,4 +40,4 @@
 
 | | |
 |:--:|:--:| 
-|<img src='https://raw.githubusercontent.com/prateek-chaubey/YTPro/main/.github/img/ytpro3.png'  > | <img src='https://raw.githubusercontent.com/codecraft007/YouTube-Premium-/main/.github/img/ytpro2.png'  > |
+|<img src='https://raw.githubusercontent.com/prateek-chaubey/YTPro/main/ytpro3.png'  > | <img src='https://raw.githubusercontent.com/codecraft007/YouTube-Premium-/main/ytpro2.png'  > |
